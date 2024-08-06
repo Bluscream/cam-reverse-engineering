@@ -1,11 +1,15 @@
 I got two more cameras from Temu:
 
 Store: https://www.temu.com/goods.html?goods_id=601099566919307
+
 App: https://play.google.com/store/apps/details?id=com.macrovideo.v380pro
 
 Default Hostname: `aliosthings`
+
 Default AP Hotspot Name: `MV84476422`
+
 Example MAC: `4C:60:BA:22:A2:0F`
+
 MAC Vendor: `AltoBeam Inc.`
 
 PCAP: https://apackets.com/pcaps?pcap=85ee480fe1cdaddf3dc58090dd478919.pcap&view=charts
